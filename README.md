@@ -6,7 +6,7 @@
 - 📫 How to reach me **Ahmedabdallah7109@gmail.com**
 
 <h3 align="left">Connect with me:
-twitter: https://twitter.com/titch7109</h3>
+ https://twitter.com/titch7109</h3>
 <p align="left">
 </p>
 

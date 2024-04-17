@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionated frontend designer from Sudan</h3>
+<h3 align="center">A passionated frontend designer from </h3>
 
 - 🌱 I’m currently learning **Javascript**
 

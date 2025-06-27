@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionated frontend developer </h3>
+<h3 align="center">A passionated Web developer </h3>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **Ahmedweb7109@gmail.com**
 
